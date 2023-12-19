@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [6thstreet.com](https://6thstreet.com)
 
-- 👨‍💻 All of my projects are available at [https://mayanknasa.netlify.app/](https://mayanknasa.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.mayanknasa.com/](https://www.mayanknasa.com)
 
 - 📫 How to reach me **mayanknasa4@gmail.com**
 

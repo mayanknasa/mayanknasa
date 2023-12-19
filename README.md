@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mayanknasa4@gmail.com**
 
-- 📄 Know about my experiences [https://mayanknasa.netlify.app/](https://mayanknasa.netlify.app)
+- 📄 Know about my experiences [https://www.mayanknasa.com/](https://www.mayanknasa.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

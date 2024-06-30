@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Nasa</h1>
-<h3 align="center">A passionate frontend developer from India! <br/> Experienced and adept front-end developer with a track record of delivering high-quality web development projects for popular ecommerce brands.</h3>
+<h3 align="center">Experienced software developer with a proven track record of delivering high-quality web and mobile app projects for popular e-commerce brands. </h3>
 
 - 🔭 I’m currently working at [6thstreet.com](https://6thstreet.com)
 

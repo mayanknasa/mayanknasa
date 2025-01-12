@@ -10,13 +10,13 @@
 - Working at [6thstreet.com](https://6thstreet.com)
 
 ### 👨‍💻 Projects
-- Explore all of my projects at [www.mayanknasa.com](https://www.mayanknasa.com)
+- Explore all of my projects at [My Website](https://mayanknasa.netlify.app/)
 
 ### 📫 Contact Me
 - Email: [mayanknasa4@gmail.com](mailto:mayanknasa4@gmail.com)
 
 ### 📄 Experience
-- Learn more about my experiences: [www.mayanknasa.com](https://www.mayanknasa.com)
+- Learn more about my experiences: [My Website](https://mayanknasa.netlify.app/)
 
 ---
 
